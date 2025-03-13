@@ -18,32 +18,32 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <?php include_once 'partials/navbar.php' ?>
+        <?php include_once 'partials/navbar.php'?>
         <!-- Masthead-->
-        <?php include_once 'partials/hero.php' ?>
+        <?php include_once 'partials/hero.php'?>
         <!-- Portfolio Section-->
-        <?php include_once 'partials/sections/portfolio.php' ?>
+        <?php include_once 'partials/sections/portfolio.php'?>
         <!-- About Section-->
-        <?php include_once 'partials/sections/about.php' ?>
+        <?php include_once 'partials/sections/about.php'?>
         <!-- Contact Section-->
-        <?php include_once 'partials/sections/contact.php' ?>
+        <?php include_once 'partials/sections/contact.php'?>
         <!-- Footer-->
-        <?php include_once 'partials/footer.php' ?>
+        <?php include_once 'partials/footer.php'?>
         <!-- Copyright Section-->
-        <?php include_once 'partials/sections/copyright.php' ?>
+        <?php include_once 'partials/sections/copyright.php'?>
         <!-- Portfolio Modals-->
         <!-- Portfolio Modal 1-->
-        <?php include_once 'partials/modals/portfolio-1.php' ?>
+        <?php include_once 'partials/modals/portfolio1.php'?>
         <!-- Portfolio Modal 2-->
-        <?php include_once 'partials/modals/portfolio-2.php' ?>
+        <?php include_once 'partials/modals/portfolio2.php'?>
         <!-- Portfolio Modal 3-->
-        <?php include_once 'partials/modals/portfolio-3.php' ?>
+        <?php include_once 'partials/modals/portfolio3.php'?>
         <!-- Portfolio Modal 4-->
-        <?php include_once 'partials/modals/portfolio-4.php' ?>
+        <?php include_once 'partials/modals/portfolio4.php'?>
         <!-- Portfolio Modal 5-->
-        <?php include_once 'partials/modals/portfolio-5.php' ?>
+        <?php include_once 'partials/modals/portfolio5.php'?>
         <!-- Portfolio Modal 6-->
-        <?php include_once 'partials/modals/portfolio-6.php' ?>
+        <?php include_once 'partials/modals/portfolio6.php'?>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->

@@ -1,7 +1,7 @@
 <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="Praktikum03/assets/img/Avataars.svg" alt="..." />
+                <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Ikmal Rizal</h1>
                 <!-- Icon Divider-->
@@ -11,6 +11,6 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">UI/UX - Web designer - Development</p>
+                <p class="masthead-subheading font-weight-light mb-0">Graphic Artist - Web Designer - UI/UX</p>
             </div>
         </header>
